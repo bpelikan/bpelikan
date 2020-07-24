@@ -2,15 +2,14 @@
 
 
 <a href="https://github.com/bpelikan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true&line_height=27&theme=prussian " />
 </a>
 <a href="https://github.com/bpelikan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpelikan&hide=Python,PowerShell&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpelikan&hide=Python,PowerShell&theme=prussian " />
 </a>
 <a href="https://github.com/bpelikan/SzkolaChmury">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bpelikan&repo=SzkolaChmury" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bpelikan&repo=SzkolaChmury&theme=prussian " />
 </a>
-
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
