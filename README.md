@@ -1,4 +1,5 @@
 
+<h3 align="center">Hello! My name is Bartosz. 👋 </h3>
 
 <p align="center">
   <a href="https://www.bartoszpelikan.pl/">Blog</a> •
@@ -7,8 +8,6 @@
 </p>
 
 ---
-
-<h3 align="center">Hello! My name is Bartosz. 👋 </h3>
 
 - 👨‍💻 Junior .NET developer at PCG Academia. 
 - ☁ Cloud Technology Enthusiast
