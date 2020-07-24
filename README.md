@@ -2,13 +2,13 @@
 
 
 <a href="https://github.com/bpelikan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/bpelikan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpelikan&hide=Python,PowerShell" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpelikan&hide=Python,PowerShell&line_height=27" />
 </a>
 <a href="https://github.com/bpelikan/SzkolaChmury">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bpelikan&repo=SzkolaChmury" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bpelikan&repo=SzkolaChmury" />
 </a>
 
 
