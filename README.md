@@ -8,7 +8,8 @@
 
 ---
 
-Hello! My name is Bartosz.
+<h3 align="center">Hello! My name is Bartosz. 👋 </h3>
+
 - 👨‍💻 Junior .NET developer at PCG Academia. 
 - ☁ Cloud Technology Enthusiast
 - 😍 Love learning new technologies
