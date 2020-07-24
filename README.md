@@ -9,7 +9,7 @@
 
 ---
 
-- 👨‍💻 Junior .NET developer at PCG Academia. 
+- 👨‍💻 Junior .NET developer at PCG Academia
 - ☁ Cloud Technology Enthusiast
 - 😍 Love learning new technologies
 - 📰 Ocassionally [bloging](https://www.bartoszpelikan.pl/)
