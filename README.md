@@ -9,7 +9,10 @@
 
 ---
 
-I'm junior .NET developer. 
+Hello! My name is Bartosz.
+- 🔭 Junior .NET developer at PCG Academia. 
+- ☁ Cloud Technology Enthusiast
+- 📰 Ocassionally [bloging](https://www.bartoszpelikan.pl/)
 
 <a href="https://github.com/bpelikan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true&line_height=27&theme=prussian " />
