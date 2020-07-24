@@ -11,6 +11,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bpelikan&repo=SzkolaChmury&theme=prussian " />
 </a>
 
+---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bpelikan/count.svg" />
+</p>
+
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
