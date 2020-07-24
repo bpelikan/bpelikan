@@ -1,5 +1,15 @@
-### 👋 Hello! I'm Bartosz
 
+<h3 align="center">Hello! I'm Bartosz 👋 </h3>
+
+<p align="center">
+  <a href="https://www.bartoszpelikan.pl/">Blog</a> •
+  <a href="https://twitter.com/bartoszpelikan">Twitter</a> •
+  <a href="https://www.linkedin.com/in/bartoszpelikan/">Linkedin</a>
+</p>
+
+---
+
+I'm junior .NET developer. 
 
 <a href="https://github.com/bpelikan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true&line_height=27&theme=prussian " />
@@ -7,15 +17,12 @@
 <a href="https://github.com/bpelikan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpelikan&hide=Python,PowerShell&theme=prussian " />
 </a>
+
+<!--
 <a href="https://github.com/bpelikan/SzkolaChmury">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bpelikan&repo=SzkolaChmury&theme=prussian " />
 </a>
-
----
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bpelikan/count.svg" />
-</p>
+-->
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
