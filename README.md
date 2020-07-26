@@ -17,10 +17,10 @@
 - 👨‍🎓 Student at [Szkoła  Chmury](https://szkolachmury.pl/) 
 
 <a href="https://github.com/bpelikan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true&line_height=27&theme=prussian " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true&theme=prussian " />
 </a>
 <a href="https://github.com/bpelikan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpelikan&hide=Python,PowerShell&theme=prussian " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpelikan&layout=compact&theme=prussian " />
 </a>
 
 <!--
