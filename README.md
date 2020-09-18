@@ -13,7 +13,7 @@
 - ☁ Cloud Technology Enthusiast
 - 😍 Love learning new technologies
 - 📰 Ocassionally [bloging](https://www.bartoszpelikan.pl/)
-- 🤗 Dream of working with clouds ☁
+- 🤗 Dream of working with clouds
 - 👨‍🎓 Student at [Szkoła  Chmury](https://szkolachmury.pl/) 
 
 <a href="https://github.com/bpelikan">
