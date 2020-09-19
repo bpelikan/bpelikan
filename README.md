@@ -15,7 +15,7 @@
 - 📰 Ocassionally [bloging](https://www.bartoszpelikan.pl/)
 - 🤗 Dream of working with clouds
 - 👨‍🎓 Student at [Szkoła  Chmury](https://szkolachmury.pl/) 
-- My learning efforts: [Szkoła  Chmury](https://github.com/bpelikan/SzkolaChmury), [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/), [Qwiklabs](https://www.qwiklabs.com/public_profiles/41e0cca5-0fd1-4483-93b0-1208a84ccf16), [Pluralsight](https://app.pluralsight.com/profile/bpelikan)
+- 🤯 Learning efforts: [Szkoła  Chmury](https://github.com/bpelikan/SzkolaChmury), [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/), [Qwiklabs](https://www.qwiklabs.com/public_profiles/41e0cca5-0fd1-4483-93b0-1208a84ccf16), [Pluralsight](https://app.pluralsight.com/profile/bpelikan)
 
 <a href="https://github.com/bpelikan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true&theme=prussian " />
