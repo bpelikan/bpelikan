@@ -13,7 +13,6 @@
 - ☁ Cloud Technology Enthusiast
 - 😍 Love learning new technologies
 - 📰 Ocassionally [bloging](https://www.bartoszpelikan.pl/)
-- 🤗 Dream of working with clouds
 - 👨‍🎓 Student at [Szkoła  Chmury](https://szkolachmury.pl/) 
 - 🤯 Learning: [Szkoła  Chmury](https://github.com/bpelikan/SzkolaChmury), [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/), [Qwiklabs](https://www.qwiklabs.com/public_profiles/41e0cca5-0fd1-4483-93b0-1208a84ccf16), [Pluralsight](https://app.pluralsight.com/profile/bpelikan)
 
