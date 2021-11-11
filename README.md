@@ -9,7 +9,7 @@
 
 ---
 
-- 👨‍💻 .NET developer
+- 👨‍💻 .NET / Cloud developer
 - ☁ Cloud Technology Enthusiast
 - 😍 Love learning new technologies
 - 📰 Ocassionally [bloging](https://www.bartoszpelikan.pl/)
