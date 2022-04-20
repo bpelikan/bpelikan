@@ -16,6 +16,9 @@
 - 👨‍🎓 Student at [Szkoła  Chmury](https://szkolachmury.pl/) 
 - 📚 Learning: [Szkoła  Chmury](https://github.com/bpelikan/SzkolaChmury), [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/), [Qwiklabs](https://www.qwiklabs.com/public_profiles/41e0cca5-0fd1-4483-93b0-1208a84ccf16), [Pluralsight](https://app.pluralsight.com/profile/bpelikan)
 
+
+
+<!--
 <a href="https://github.com/bpelikan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpelikan&count_private=true&show_icons=true&theme=prussian " />
 </a>
@@ -23,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpelikan&layout=compact&theme=prussian " />
 </a>
 
-<!--
+
 <a href="https://github.com/bpelikan/SzkolaChmury">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bpelikan&repo=SzkolaChmury&theme=prussian " />
 </a>
