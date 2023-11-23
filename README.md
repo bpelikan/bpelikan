@@ -2,19 +2,22 @@
 <h3 align="center">Hello! My name is Bartosz. 👋 </h3>
 
 <p align="center">
-  <a href="https://www.bartoszpelikan.pl/">Blog</a> •
-  <a href="https://twitter.com/bartoszpelikan">Twitter</a> •
+<!--  <a href="https://www.bartoszpelikan.pl/">Blog</a> •
+  <a href="https://twitter.com/bartoszpelikan">Twitter</a> • -->
   <a href="https://www.linkedin.com/in/bartoszpelikan/">Linkedin</a>
 </p>
 
 ---
 
-- 👨‍💻 Cloud Consultant / .NET / Cloud developer
+- 👨‍💻 Senior Cloud Consultant / DevOps / .NET / Cloud developer
 - ☁ Cloud Technology Enthusiast
 - 😍 Love learning new technologies
+- 📚 Learning: [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/), [Qwiklabs](https://www.qwiklabs.com/public_profiles/41e0cca5-0fd1-4483-93b0-1208a84ccf16)
+
+<!-- 
 - 📰 Occasionally [blogging](https://www.bartoszpelikan.pl/)
-- 👨‍🎓 Student at [Szkoła  Chmury](https://szkolachmury.pl/) 
-- 📚 Learning: [Szkoła  Chmury](https://github.com/bpelikan/SzkolaChmury), [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/), [Qwiklabs](https://www.qwiklabs.com/public_profiles/41e0cca5-0fd1-4483-93b0-1208a84ccf16), [Pluralsight](https://app.pluralsight.com/profile/bpelikan)
+- 👨‍🎓 Student at [Szkoła  Chmury](https://szkolachmury.pl/)
+- 📚 Learning: [Szkoła  Chmury](https://github.com/bpelikan/SzkolaChmury), [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/), [Qwiklabs](https://www.qwiklabs.com/public_profiles/41e0cca5-0fd1-4483-93b0-1208a84ccf16), [Pluralsight](https://app.pluralsight.com/profile/bpelikan) -->
 
 
 
