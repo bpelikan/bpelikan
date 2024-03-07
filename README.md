@@ -12,7 +12,7 @@
 - 👨‍💻 Senior Cloud Consultant / DevOps / .NET / Cloud developer
 - ☁ Cloud Technology Enthusiast
 - 😍 Love learning new technologies
-- 📚 Learning: [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/), [Qwiklabs](https://www.qwiklabs.com/public_profiles/41e0cca5-0fd1-4483-93b0-1208a84ccf16)
+- 📚 Learning: [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/)
 
 <!-- 
 - 📰 Occasionally [blogging](https://www.bartoszpelikan.pl/)
