@@ -9,7 +9,7 @@
 
 ---
 
-- 👨‍💻 Senior Cloud Consultant / Azure Cloud Engineer / DevOps
+- 👨‍💻 Senior Cloud Specialist / Azure Cloud Engineer / DevOps
 - ☁ Cloud Technology Enthusiast
 - 😍 Love learning new technologies
 - 📚 Learning: [Microsoft Learn](https://docs.microsoft.com/en-us/users/bpelikan/)
